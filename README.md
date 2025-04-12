@@ -1,5 +1,7 @@
 # 🏘️ Real Estate Price Prediction Model
 
+Link to app:"https://realestatemodel.streamlit.app/"
+
 ## Project Overview
 
 This project focuses on building a **Real Estate Price Prediction Model** using machine learning techniques. The model estimates housing prices based on various input features such as location, area, and number of rooms. It uses a structured dataset and provides both a visual and an interactive interface for predictions.
