@@ -35,8 +35,7 @@ This project focuses on building a **Real Estate Price Prediction Model** using 
    - `models/`: Model training, validation, and evaluation functions.
    - `visualization/`: Scripts to generate charts and plots.
 
-4. **`Real_Estate_Solution.ipynb`**
-   - A Jupyter notebook containing exploratory data analysis (EDA), model prototyping, and evaluation.
+
 
 5. **`main.py`**
    - Main training script to execute the full pipeline.
